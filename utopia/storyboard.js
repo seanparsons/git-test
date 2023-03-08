@@ -13,7 +13,7 @@ export var storyboard = (
         left: 212,
         top: 128,
       }}
-      data-label='Playground'
+      data-label='Something Else'
       data-uid='3fc'
     >
       <Playground style={{}} data-uid='d9d' />
